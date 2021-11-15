@@ -1,5 +1,5 @@
-## Named-Entity-Recognition-BILSTM-CRF
-# HydrangeaHana
+# Named-Entity-Recognition-BILSTM-CRF
+## HydrangeaHana
 
 Github ini berisi mengenai project mata kuliah Pemrosesan Bahasa Alami 
 
